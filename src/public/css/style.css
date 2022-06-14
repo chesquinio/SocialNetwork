@@ -1,0 +1,9 @@
+body {
+	background: #C7C7C7;
+}
+
+.navbar-brand img {
+	width: 90px;
+	height: 90px;
+	margin-left: 30px;
+}
